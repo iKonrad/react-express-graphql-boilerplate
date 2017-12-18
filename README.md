@@ -3,7 +3,7 @@ A boilerplate for React application with Express Graphql API backend
 
 
 ## Features
-###Front-end
+### Front-end
 * Create-react-app (non-ejected)
 * Webpack
 * React 16
@@ -12,7 +12,7 @@ A boilerplate for React application with Express Graphql API backend
 * Reactstrap (Bootstrap 4)
 * Apollo
 
-###Back-end (API)
+### Back-end (API)
 * Express
 * ES6
 * EsLint
